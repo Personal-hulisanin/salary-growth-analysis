@@ -52,12 +52,16 @@ Year,Value
 - **`plot_data(years: list[int], values: list[float], projected_year: int, projected_value: float)`**: Plots the salary data and the projected value.
 - **`browse_file()`**: Handles file browsing, data reading, calculations, and plotting.
 
-![Application Overview](image (11).png)
+## Screenshots
+
+### Application Overview
+
+![Application Overview](images/image3.png)
 
 ### File Selection
 
-![File Selection](image (12).png)
+![File Selection](images/image2.png)
 
 ### Result Display
 
-![Result Display](image (13).png)
+![Result Display](images/image1.png)
